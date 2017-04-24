@@ -160,3 +160,4 @@
 =>
 (printout t "You could be a technology evangilist (Write about, review and critique tech products).")
 (assert (suitable-careers yes)))
+;end of program
